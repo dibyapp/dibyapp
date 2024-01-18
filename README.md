@@ -24,7 +24,7 @@
 
 
 -    System Specifications
--     -- "ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24GB GDDR6 Graphics Card": 93860.73
+     -- "ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24GB GDDR6 Graphics Card": 93860.73
 -     -- "LG 27 Inches UHD 4K VESA DisplayHDR": 36535.02
 -     -- "AMD 7000 Series Ryzen 9 7900X Desktop Processor": 37547.00
 -     -- "WD_Black SN850X NVMe SSD 1TB": 8469.00
