@@ -5,7 +5,7 @@
   <a href="https://twitter.com/dibyapp"><img src="https://img.shields.io/badge/Twitter-imdibyap-blue?style=flat-square&logo=twitter"></a>
   <a href="https://instagram.com/dibyapp"><img src="https://img.shields.io/badge/Instagram-dibyapp-purple?style=flat-square&logo=instagram"></a>
   <a href="https://linkedin.com/in/dibyapp"><img src="https://img.shields.io/badge/LinkedIn-dibyapp-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.youtube.com/c/ProgrammaticDIB"><img src="https://img.shields.io/badge/YouTube-Programmatic%20DIB-red?style=flat-square&logo=youtube"></a>
+  <a href="https://www.youtube.com/c/dibyapp"><img src="https://img.shields.io/badge/YouTube-Programmatic%20DIB-red?style=flat-square&logo=youtube"></a>
 </p>
 
 ## About Me
