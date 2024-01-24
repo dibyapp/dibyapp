@@ -23,7 +23,7 @@ I’m a passionate developer with experience in:
 - **AWS Services:** AWS EC2 (Ubuntu 18+), RDS
 
 ## Currently Learning
-- Elastic Stack
+- AI ML, Open LLMs, NLPs
 - Native iOS App Development
 
 ## Collaboration Opportunities
