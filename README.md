@@ -12,6 +12,7 @@
 I’m a passionate developer with experience in:
 
 - **Programming Languages:** Java, Kotlin, Dart, Javascript, SQL, Python
+- **AI, ML, NLP Frameworks:** TensorFlow, PyTorch, Pandas, NumPy, ROCm, OpenNLP
 - **Industry Level Fundamentals:** Data Structures & Algorithms
 - **Technologies:** JDBC, JSP, Servlets, Python CGI
 - **UI Technologies & Script Helpers:** HTML, CSS, Bootstrap, Ajax, Thymeleaf
