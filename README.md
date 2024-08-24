@@ -8,8 +8,6 @@
   <a href="https://www.youtube.com/@dibyapp"><img src="https://img.shields.io/badge/YouTube-Programmatic%20DIB-red?style=flat-square&logo=youtube"></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dibyapp&theme=whatsapp-dark2&border_radius=4&card_width=1100&card_height=400)](https://git.io/streak-stats)
-
 ---
 
 <h3>Technologies and Skills  🚀</h3>
