@@ -10,7 +10,7 @@
 
 ---
 
-<h3>Technologies and Skills  🚀</h3>
+<h3>Skills  🚀</h3>
 
 <table>
   <tr>
