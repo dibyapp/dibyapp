@@ -8,11 +8,13 @@
   <a href="https://www.youtube.com/@dibyapp"><img src="https://img.shields.io/badge/YouTube-Programmatic%20DIB-red?style=flat-square&logo=youtube"></a>
 </p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyapp&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=prs,issues,contribs,commits&custom_title=Total%20Stars&theme=ambient_gradient" alt="Total Stars" />
+</div>
 
-<h3>Skills  🚀</h3>
+<h3 align="center">Skills  🚀</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><b>Programming Languages</b></td>
     <td>Java, Kotlin, Dart, JavaScript, Python, PHP, Go, TypeScript, C++</td>
@@ -57,9 +59,9 @@
 
 ---
 
-<h3>System Specifications  🖥️</h3>
+<h3 align="center">System Specifications  🖥️</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><b>Graphics Card</b></td>
     <td>ASUS TUF Gaming Radeon RX 7900 XTX OC Edition 24GB GDDR6</td>
@@ -98,17 +100,12 @@
   </tr>
   <tr>
     <td><b>Equipments, Cool Aesthetics</b></td>
-    <td>Lian Li Strimer Plus 24 V2 LED Extension Cables-,Cooler Master MF120 Halo ARGB Case Fan</td>
+    <td>Lian Li Strimer Plus 24 V2 LED Extension Cables, Cooler Master MF120 Halo ARGB Case Fan</td>
   </tr>
 </table>
 
 ---
 
-<h3>How to Reach Me  📫</h3>
+<h3 align="center">How to Reach Me  📫</h3>
 
-<p style="font-size: small;">Feel free to contact me on my social media handles mentioned above.</p>
-
-<!---
-dibyapp/dibyapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can reach out to me through my social media or check my projects here.
---->
+<p style="font-size: small;" align="center">Feel free to contact me on my social media handles mentioned above.</p>
