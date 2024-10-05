@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dibyapp&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=prs,issues,contribs,commits&custom_title=Total%20Stars&theme=ambient_gradient" alt="Total Stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyapp&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=prs,issues,contribs,commits&custom_title=Total%20Stars&theme=catppuccin_latte" alt="Total Stars" />
 </div>
 
 <h3 align="center">Skills  🚀</h3>
