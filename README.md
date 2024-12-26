@@ -8,10 +8,6 @@
   <a href="https://www.youtube.com/@dibyapp"><img src="https://img.shields.io/badge/YouTube-Programmatic%20DIB-red?style=flat-square&logo=youtube"></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dibyapp&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=prs,issues,contribs,commits&custom_title=Total%20Stars&theme=vue" alt="Stars" />
-</div>
-
 <h3 align="center">Skills  🚀</h3>
 
 <table align="center">
