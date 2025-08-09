@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Dibyaprakash</h1>
+<h1 align="center">👋 Hi, I’m Dibyaprakash Pradhan</h1>
 
 <p align="center">
   <a href="https://facebook.com/dibyapp"><img src="https://img.shields.io/badge/Facebook-dibyapp-blue?style=flat-square&logo=facebook"></a>
