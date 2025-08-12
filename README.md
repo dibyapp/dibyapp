@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m Dibyaprakash Pradhan</h1>
 
 <p align="center">
+  <img src="https://your-server.com/api/diby.png?nocache=1692345123" alt="Tracking Pixel" width="1" height="1">
   <a href="https://facebook.com/dibyapp"><img src="https://img.shields.io/badge/Facebook-dibyapp-blue?style=flat-square&logo=facebook"></a>
   <a href="https://twitter.com/dibyapp"><img src="https://img.shields.io/badge/Twitter-imdibyapp-blue?style=flat-square&logo=twitter"></a>
   <a href="https://instagram.com/dibyapp"><img src="https://img.shields.io/badge/Instagram-dibyapp-purple?style=flat-square&logo=instagram"></a>
