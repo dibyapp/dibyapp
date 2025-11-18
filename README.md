@@ -1,6 +1,16 @@
 <h1 align="center">👋 Hi, I’m Dibyaprakash Pradhan</h1>
 
 <p align="center">
+  From breaking bots to shaping streams—of code, of people, of future dreams.
+</p>
+<p align="center">
+  With cricket, guitar, and roads that call—I BALANCE life, embracing all.
+</p>
+<p align="center">
+  With vision and grit, I craft new schemes—AI and robotics to build bright beams.
+</p>
+
+<p align="center">
   <img src="https://opsi.ai/api/diby.png?nocache=1692345123" alt="Tracking Pixel" width="1" height="1">
   <a href="https://facebook.com/dibyapp"><img src="https://img.shields.io/badge/Facebook-dibyapp-blue?style=flat-square&logo=facebook"></a>
   <a href="https://twitter.com/dibyapp"><img src="https://img.shields.io/badge/Twitter-imdibyapp-blue?style=flat-square&logo=twitter"></a>
