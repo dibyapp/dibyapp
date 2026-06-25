@@ -117,7 +117,6 @@
   <a href="https://pcbeditor.com">🔌 PCBEditor AI</a> •
   <a href="https://fonix.ai">🧠 FonxiAI</a>
 </p>
----
 
 <h3 align="center">How to Reach Me  📫</h3>
 
