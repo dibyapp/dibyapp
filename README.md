@@ -111,6 +111,13 @@
 </table>
 
 ---
+<p align="center">
+  <a href="https://antengage.com">🌍 AntEngage</a> •
+  <a href="https://robodib.com">🤖 RoboDIB</a> •
+  <a href="https://pcbeditor.com">🔌 PCBEditor AI</a> •
+  <a href="https://fonix.ai">🧠 FonxiAI</a>
+</p>
+---
 
 <h3 align="center">How to Reach Me  📫</h3>
 
